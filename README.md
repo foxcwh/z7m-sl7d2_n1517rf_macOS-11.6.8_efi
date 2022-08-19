@@ -1,9 +1,12 @@
 # z7m-sl7d2_n1517rf_macOS-11.6.8_efi
 Hackintosh
 神舟战神z7m sl7d2笔记本黑苹果efi配置文件
+
 无线网卡已由Intel AC3165更换为HP DW1820A
 加了8GBDDR3L内存
 其他与原厂一致
+
+macOS 11.6.8下
 隔空投送 接力 随航功能正常 
 睡眠不正常 已关闭睡眠休眠功能
 HDMI可以正常输出 
